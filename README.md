@@ -16,6 +16,15 @@
 | :--: | :--: |
 | <img src="assets/figures/motivation.png" width="480"/> | <img src="assets/figures/architecture.png" width="480"/> |
 
+## Visual Results
+
+| Description | Download |
+| :-- | :--: |
+| Pre-trained model weights | [Google Drive](https://drive.google.com/file/d/1adNJ-UiTcM9DUsqpvQknOpU-putgY_3u/view?usp=drive_link) |
+| SSR results on RainDrop | [Google Drive](https://drive.google.com/file/d/1kzLDLXWug_YOv_aiSF5PlOSPIzhIuLlF/view?usp=drive_link) |
+| SSR results on Snow100K-S | [Google Drive](https://drive.google.com/file/d/1BawvWUJSc-xb9T8MJjS7dKkiCH6ZCzll/view?usp=drive_link) |
+| SSR results on test1 | [Google Drive](https://drive.google.com/file/d/1VcQjfPRP7iT4P7aByC05463SInaGupVn/view?usp=drive_link) |
+
 ## Project Structure
 
 - `basicsr/` — Training and testing framework (based on BasicSR)
