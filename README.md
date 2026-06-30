@@ -1,6 +1,20 @@
-# Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM
+<h1 align="center">[ECCV 2026] Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM</h1>
 
-Official PyTorch implementation (ECCV 2026).
+<p align="center">Official PyTorch implementation</p>
+
+<p align="center">
+  <a href="https://github.com/LIDAYU-DayuLi/SSR"><img src="https://img.shields.io/badge/GitHub-SSR-blue" alt="GitHub"></a>
+  <a href="https://github.com/LIDAYU-DayuLi/SSR/issues"><img src="https://img.shields.io/github/issues/LIDAYU-DayuLi/SSR" alt="Issues"></a>
+</p>
+
+<p align="center">
+  <b>Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM</b><br>
+  ECCV 2026
+</p>
+
+| Motivation | Model Architecture |
+| :--: | :--: |
+| <img src="assets/figures/motivation.png" width="480"/> | <img src="assets/figures/architecture.png" width="480"/> |
 
 ## Project Structure
 
