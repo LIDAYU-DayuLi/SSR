@@ -1,6 +1,6 @@
-# SSR
+# Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM
 
-Code for SSR (ECCV 2026).
+Official PyTorch implementation (ECCV 2026).
 
 ## Project Structure
 
