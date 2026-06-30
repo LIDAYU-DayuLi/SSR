@@ -47,17 +47,15 @@ python train.py -opt ../Allweather/Options/Allweather_SSR.yml
 
 Set `dataroot_gt` and `dataroot_lq` in the config file before training.
 
-## Testing
-
-```bash
-cd basicsr
-python test.py -opt ../Allweather/Options/Allweather_SSR.yml
-```
-
-## ⚖️ Evaluation
+## Evaluation
 
 ```bash
 cd Allweather
 ```
 
 Download the [pre-trained model](https://drive.google.com/file/d/1adNJ-UiTcM9DUsqpvQknOpU-putgY_3u/view?usp=drive_link) and place it in `./pretrained_models/`.
+
+```bash
+cd ../basicsr
+python test.py -opt ../Allweather/Options/Allweather_SSR.yml
+```
