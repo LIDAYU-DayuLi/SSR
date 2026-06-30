@@ -32,7 +32,7 @@ results/
 
 # Datasets (keep code only in repo)
 datasets/
-data/
+/data/
 
 # OS
 .DS_Store
