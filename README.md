@@ -59,3 +59,15 @@ Download the [pre-trained model](https://drive.google.com/file/d/1adNJ-UiTcM9DUs
 cd ../basicsr
 python test.py -opt ../Allweather/Options/Allweather_SSR.yml
 ```
+
+## Citation
+
+If you find this work useful for your research, please cite:
+
+```bibtex
+@article{li2026pixel,
+  title={Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM},
+  author={Li, Dayu and Zhou, Shihao and Shu, Leizhi and Wu, Jin and Vong, Chi Man and Yang, Jufeng},
+  journal={arXiv preprint arXiv:2608.01760},
+  year={2026}
+}
