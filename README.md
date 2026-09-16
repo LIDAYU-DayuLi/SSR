@@ -65,9 +65,14 @@ python test.py -opt ../Allweather/Options/Allweather_SSR.yml
 If you find this work useful for your research, please cite:
 
 ```bibtex
-@article{li2026pixel,
+@inproceedings{li2026pixel,
   title={Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM},
   author={Li, Dayu and Zhou, Shihao and Shu, Leizhi and Wu, Jin and Vong, Chi Man and Yang, Jufeng},
-  journal={arXiv preprint arXiv:2608.01760},
-  year={2026}
+  booktitle={European Conference on Computer Vision (ECCV)},
+  volume={15732},
+  pages={78--96},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/978-3-032-37132-4_7}
 }
+
